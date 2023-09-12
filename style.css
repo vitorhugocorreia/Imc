@@ -1,8 +1,8 @@
 .corpo{
-    background-color: coral;
+    background-color: greenyellow;
 }
 .titulo{
-    font-size: 50px; color: white; background: red; text-align: center;
+    font-size: 50px; color: white; background: green; text-align: center;
 }
 .texto-imc{
     font-size: 50px;
